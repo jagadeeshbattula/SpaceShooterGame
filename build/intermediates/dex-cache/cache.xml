@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\carlos\Documents\workspace_studio\SpaceShooter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cd7f9a931fbb3ea8bc77c938fa25b39dfa52f120">
+        <dex dex="C:\Users\carlos\Documents\workspace_studio\SpaceShooter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ccef06a2aa9939454c877942e64cbdc6150bd5b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\carlos\Documents\workspace_studio\SpaceShooter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dfc2ac0c99dbd820d16f37825e1a76a584027d2">
+        <dex dex="C:\Users\carlos\Documents\workspace_studio\SpaceShooter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b58cfa05e1d314a65a2c4ed9f27dc9d2a3ca091e\classes.dex" />
+    </item>
+
+</items>
